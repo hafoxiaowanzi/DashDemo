@@ -22,5 +22,14 @@
             "program": "${workspaceFolder}\\DashDemo1.py",
             "console": "integratedTerminal"
         }
+        ,       
+        {
+            "name": "Python: Sklearntest",
+            "type": "python",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "program": "${workspaceFolder}\\sklearntest.py",
+            "console": "integratedTerminal"
+        },
     ]
 }
